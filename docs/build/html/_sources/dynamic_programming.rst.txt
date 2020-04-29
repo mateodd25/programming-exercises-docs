@@ -1,0 +1,7 @@
+dynamic\_programming module
+===========================
+
+.. automodule:: programming_exercises.dynamic_programming
+    :members:
+    :undoc-members:
+    :show-inheritance:

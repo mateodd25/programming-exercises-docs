@@ -1,0 +1,3 @@
+* Programming Exercises
+
+This is a repository with the demoing the programming exercises we did in ORIE6125 in the Spring 2020.

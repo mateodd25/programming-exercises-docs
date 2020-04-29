@@ -1,0 +1,7 @@
+graph\_algorithms module
+========================
+
+.. automodule:: graph_algorithms
+    :members:
+    :undoc-members:
+    :show-inheritance:
